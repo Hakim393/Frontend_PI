@@ -4,3 +4,4 @@ numpy
 scikit-learn
 requests
 folium
+st_folium
